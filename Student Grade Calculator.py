@@ -1,7 +1,7 @@
 import math
 
 #ask for the student's namegit push origin main
-name = input("What is your name?: " )
+name = input("What is your last name?: " )
 
 #loops the code until a valid grade is entered
 while True:
@@ -56,4 +56,4 @@ while True:
             print("Final Grade:" +str(final) + " You failed, do better next time")
         #exits the loop once complete    
         break
-    
+        print("Update to trigger contributor")
