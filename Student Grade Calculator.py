@@ -1,8 +1,5 @@
 import math
 
-# Trigger update to GitHub contributor section
-print("Update to trigger contributor")
-
 #ask for the student's namegit push origin main
 name = input("What is your last name?: " )
 
